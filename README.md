@@ -110,3 +110,5 @@ https://www.goavega.com/install-apache-kafka-on-windows/
 https://phoenixnap.com/kb/install-spark-on-windows-10
 
 https://matplotlib.org/devdocs/index.html
+
+## [VISIT](https://rushi21-kesh.github.io/Analyzing-real-time-data-with-spark-streaming-and-kafka/)
